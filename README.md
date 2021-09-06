@@ -8,7 +8,7 @@ A website that was created to showcase what I've learned.
 * CSS
 
 ## Website
-https://lernantino.github.io/run-buddy/
+https://mcuento.github.io/portfolio/
 
 ## Contribution
 Made with ❤️ by Michael Cuento
